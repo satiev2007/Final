@@ -1,5 +1,5 @@
 Exam on Introduction to engineering and computer science
-Make a fork of this repository on your GitHab. Read the tasks carefully and complete them according to the instructions.
+Make a fork of this repositfgnfgnfnory on your GitHab. Read the tasks carefully and complete them accognfnfgngfrding to the instructions.
 ✔️ All tasks must be done on the git and uploaded to the GitHub.
 
 ✔️ Send me a link to your GitHub repository with the completed tasks in a telegram message: @AntigravityApple.
